@@ -57,7 +57,7 @@ export const Banner = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
-                <h1>{`Hi! I'm codefully`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Game Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
+                <h1>{`Hi! I'm codefully and im a`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Game Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
                   <p>I am a game developer and UI/UX designer based in the UK with over 5 years of experience. I have created games for VR, AR and for platforms such as Unity and Roblox.</p>
                   
               </div>}
