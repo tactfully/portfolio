@@ -20,7 +20,7 @@ export const Projects = () => {
     },
     {
       title: "Crossy Road",
-      description: "I created crossy road for people who are blind or have low vision. The idea of the game is to cross multiple roads without being hit. The game uses stereo audio to help people understand where the cars are.",
+      description: "I created crossy road for people who are blind or have low vision. The idea of the game is to cross multiple roads without being hit. The game uses stereo audio to help people understand where the cars are. To find more information, please visit www.dull.info",
       imgUrl: projImg2,
     },
     {
