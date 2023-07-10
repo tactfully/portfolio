@@ -19,8 +19,8 @@ export const Projects = () => {
       imgUrl: projImg1,
     },
     {
-      title: "Crossy Road",
-      description: "I created crossy road for people who are blind or have low vision. The idea of the game is to cross multiple roads without being hit. The game uses stereo audio to help people understand where the cars are. To find more information, please visit www.dull.info",
+      title: "Crossy Road / Smashy Road",
+      description: "I created crossy road and smashy road for people who are blind or have low vision. In Crossy Road, the idea of the game is to cross multiple roads without being hit. Smashy road changes the goal from avoiding cars to being hit by cars. The games use stereo audio to help people understand where the cars are. To out find more information, please visit www.dull.info",
       imgUrl: projImg2,
     },
     {
